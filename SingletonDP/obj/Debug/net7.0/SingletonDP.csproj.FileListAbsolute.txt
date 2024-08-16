@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\bin\Debug\net7.0\SingletonDP.exe
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\bin\Debug\net7.0\SingletonDP.deps.json
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\bin\Debug\net7.0\SingletonDP.runtimeconfig.json
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\bin\Debug\net7.0\SingletonDP.dll
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\bin\Debug\net7.0\SingletonDP.pdb
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\obj\Debug\net7.0\SingletonDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\obj\Debug\net7.0\SingletonDP.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\obj\Debug\net7.0\SingletonDP.AssemblyInfo.cs
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\obj\Debug\net7.0\SingletonDP.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\obj\Debug\net7.0\SingletonDP.dll
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\obj\Debug\net7.0\refint\SingletonDP.dll
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\obj\Debug\net7.0\SingletonDP.pdb
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\obj\Debug\net7.0\SingletonDP.genruntimeconfig.cache
+C:\Users\pc\source\repos\SingletonDP\SingletonDP\obj\Debug\net7.0\ref\SingletonDP.dll
